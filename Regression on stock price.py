@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 31 18:23:34 2020
-
-@author: Ørjan
-"""
 import pandas as pd
 import quandl, math, datetime
 import numpy as np
